@@ -1,13 +1,23 @@
-## Welcome to GitHub Pages
+## Marcelo Guiraldelli
 
-You can use the [editor on GitHub](https://github.com/marcelog1511/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Sobre Mim
+Eu sou o Marcelo,estou fazendo curso de Marketing Digital,estou querendo aprender a fazer site,tambem sei fazer beats,
+aprendi vendo varios videos no youtube e tento sempre aprender mais e estou querendo fazer um site para começar a vender esses beats 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+### O que eu faço 
+
+Fazer beats(batidas) 
+
+Estou cursando em Marketing Digital
+
+### Hobbies
+Ultimamente fazer beats está sendo hobbie
+
+Ver videos
 ```markdown
 Syntax highlighted code block
 
